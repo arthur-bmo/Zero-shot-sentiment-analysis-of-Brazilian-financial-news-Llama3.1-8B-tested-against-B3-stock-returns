@@ -84,7 +84,7 @@ llm-sentiment-b3/
 │   └── pipeline_completo.ipynb        # scraping → LLM → event study → logit → backtest
 ├── data/
 │   ├── event_study_results.csv        # derived base: sentiment label + AR + CAR per event
-│   ├── dataset_10_gigantes_tcc.csv    # raw scraped headlines
+│   ├── dataset_10_stocks_b3.csv       # raw scraped headlines
 │   └── README.md                      # column dictionary
 ├── figures/
 │   └── car_boxplot.png
