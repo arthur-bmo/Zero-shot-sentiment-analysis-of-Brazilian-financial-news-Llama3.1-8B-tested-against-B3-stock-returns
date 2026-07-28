@@ -1,0 +1,21 @@
+# Core data / numerics
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+statsmodels==0.14.2
+python-dateutil==2.9.0
+
+# Financial + macro data
+yfinance==0.2.40
+requests==2.32.3
+
+# News scraping
+pygooglenews==0.1.2
+
+# LLM inference (Groq via OpenAI-compatible client)
+openai==1.40.0
+nest_asyncio==1.6.0
+tqdm==4.66.4
+
+# Plotting
+matplotlib==3.9.0
