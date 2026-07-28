@@ -1,1 +1,0 @@
-# Zero-shot-sentiment-analysis-of-Brazilian-financial-news-Llama3.1-8B-tested-against-B3-stock-returns
